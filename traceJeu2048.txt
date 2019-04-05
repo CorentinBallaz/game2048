@@ -1,0 +1,69 @@
+Nouveau Jeu
+Nb colonnes : 4  Nb lignes : 4  Score à atteindre : 2048
+Avec la souris : décalage vers le haut
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (0,0)
+Avec les touches : décalage vers le haut
+Avec les touches : décalage vers la droite
+Avec les touches : décalage vers le haut
+	4 est le resultat de la fusion dans (0,3)
+Avec les touches : décalage vers la gauche
+	8 est le resultat de la fusion dans (0,0)
+	4 est le resultat de la fusion dans (1,0)
+Avec les touches : décalage vers la droite
+	4 est le resultat de la fusion dans (3,3)
+Avec les touches : décalage vers le haut
+	8 est le resultat de la fusion dans (1,3)
+Avec les touches : décalage vers le haut
+	16 est le resultat de la fusion dans (0,3)
+	décalage impossible
+	décalage impossible
+Avec les touches : décalage vers la gauche
+	décalage impossible
+Avec les touches : décalage vers la gauche
+Avec les touches : décalage vers la droite
+Avec les touches : décalage vers le haut
+	4 est le resultat de la fusion dans (0,3)
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (2,0)
+Avec les touches : décalage vers la droite
+Avec les touches : décalage vers le haut
+	8 est le resultat de la fusion dans (1,2)
+	4 est le resultat de la fusion dans (1,3)
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (2,0)
+	décalage impossible
+Avec les touches : décalage vers la droite
+	décalage impossible
+	décalage impossible
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (0,0)
+Avec les touches : décalage vers la droite
+Avec les touches : décalage vers le haut
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (3,0)
+Avec les touches : décalage vers le haut
+	8 est le resultat de la fusion dans (0,1)
+	4 est le resultat de la fusion dans (1,2)
+	8 est le resultat de la fusion dans (2,0)
+Avec les touches : décalage vers la gauche
+Avec les touches : décalage vers le haut
+	16 est le resultat de la fusion dans (1,0)
+Avec les touches : décalage vers la droite
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (3,0)
+Avec les touches : décalage vers le haut
+	8 est le resultat de la fusion dans (2,0)
+Avec les touches : décalage vers la gauche
+	4 est le resultat de la fusion dans (1,2)
+Avec les touches : décalage vers la droite
+	8 est le resultat de la fusion dans (1,3)
+	4 est le resultat de la fusion dans (2,3)
+	décalage impossible
+	décalage impossible
+Avec les touches : décalage vers le haut
+	32 est le resultat de la fusion dans (0,2)
+Avec les touches : décalage vers le haut
+	4 est le resultat de la fusion dans (0,0)
+	décalage impossible
+	décalage impossible
